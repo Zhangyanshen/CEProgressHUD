@@ -3,6 +3,7 @@ Pod::Spec.new do |s|
   s.version	= '1.0.0'
   s.summary	= 'Swift HUD'
   s.homepage	= 'https://github.com/Zhangyanshen/CEProgressHUD'
+  s.license	= 'MIT'
   s.platform	= :ios
   s.author	= {'Zhangyanshen' => 'zhangyanshen86@163.com'}
   s.ios.deployment_target = '8.0'
